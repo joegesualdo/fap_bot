@@ -1,3 +1,3 @@
 A spider for fap
 
-This is a spider built to crawl.
+A spider built with ruby to crawl fap and gather data. 
